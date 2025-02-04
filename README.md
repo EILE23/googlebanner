@@ -5,5 +5,14 @@
 
 
 #### 메뉴 클릭시 드롭다운 메뉴 토글 되는 기능 구현
-####
+<br>
+
+#### 기술
+<br>
+
+<span>
+<img src = "https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/>
+</span>
 
